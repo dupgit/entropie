@@ -72,10 +72,10 @@ class Options:
     def usage(self, exit_value):
         print("""
   NAME
-      entropie
+      entropie.py
 
   SYNOPSIS
-      entropie [OPTIONS] FILE1 FILE2...
+      entropie.py [OPTIONS] FILE1 FILE2...
 
   DESCRIPTION
       Calculates the shannon entropy of a file.
