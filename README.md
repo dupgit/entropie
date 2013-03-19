@@ -6,6 +6,9 @@ Tool to calculate entropy on files
 
 Usage
 =====
+
+::
+
 NAME
   entropie.py
 
@@ -36,7 +39,6 @@ OPTIONS
 
   -e, --entropy
     Outputs only the entropy (the number)
-
 
 EXAMPLES
   entropie.py -l entropie.py
