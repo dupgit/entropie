@@ -7,8 +7,7 @@ Tool to calculate entropy on files
 Usage
 =====
 
-::
-
+```
 NAME
   entropie.py
 
@@ -43,3 +42,4 @@ OPTIONS
 EXAMPLES
   entropie.py -l entropie.py
   entropie.py -s 32 -b -m local entropie.py
+```
